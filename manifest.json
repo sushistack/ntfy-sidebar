@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "ntfy Sidebar",
   "description": "ntfy (notify.eli.kr) sidebar panel for Firefox",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "browser_specific_settings": {
     "gecko": {
       "id": "ntfy-sidebar@eli.kr",
